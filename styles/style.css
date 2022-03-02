@@ -33,7 +33,7 @@ li{
 h1 {
     font-size: 40px;
     text-align: center;
-    border: 2px dotted rgb(248, 237, 140);
+    border: 2px dotted #bf8cfa;
     padding: 0 10px 10px 10px;
     letter-spacing: 10px;
 }
@@ -55,9 +55,4 @@ img {
     margin: 0 auto;
     height: auto;
     border: 2px solid white;
-}
-div.coolbox {
-    margin: 20px;
-    padding: 10px;
-    border: lightblue dotted 3px;
 }
